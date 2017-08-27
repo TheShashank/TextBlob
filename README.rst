@@ -74,7 +74,7 @@ Get it now
 Examples
 --------
 
-See more examples at the `Quickstart guide`_.
+See more examples in the `Quickstart guide`_.
 
 .. _`Quickstart guide`: https://textblob.readthedocs.io/en/latest/quickstart.html#quickstart
 
